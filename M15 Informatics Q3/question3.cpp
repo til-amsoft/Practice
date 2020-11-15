@@ -8,3 +8,6 @@
 #include <cmath>
 
 int main(){
+	int N;
+	std::cout << "Input N:\n";
+	std::cin >> N;
